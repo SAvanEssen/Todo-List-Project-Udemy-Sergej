@@ -5,3 +5,7 @@ That second list I want two options in, the slider has a recycle icon and I want
 of returning a deleted item back to the To-Do List.
 The eraser Icon should either remove remaining items in the list alltogether or move them to a database,
 yet to decide on that. Benefit would be you can allways retreive information about all you have done in a period of time.
+
+See the product:
+
+https://savanessen.github.io/todolistsergej/
