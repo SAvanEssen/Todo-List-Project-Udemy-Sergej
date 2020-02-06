@@ -9,3 +9,5 @@ yet to decide on that. Benefit would be you can allways retreive information abo
 See the product:
 
 https://savanessen.github.io/todolistsergej/
+
+![Alt text](/screenshot.png?raw=true "preview")
